@@ -1,0 +1,10 @@
+2024-08-25 16:03:23,431 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B2F685D00>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+2024-08-25 16:03:24,435 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B2F6D8050>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+2024-08-25 16:03:25,441 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026B2F6D9430>, 'Connection to 127.0.0.1 timed out. (connect timeout=1.0)')': /status
+2024-08-25 16:03:25,979 - INFO - Appium Star!
+2024-08-25 16:03:34,199 - INFO - Driver Started!
+2024-08-25 16:03:34,924 - INFO - App Was Launched!
+2024-08-25 16:03:34,925 - INFO - Start entering in options KeyPadComdi
+2024-08-25 16:03:50,145 - INFO - Start changing param keypad
+2024-08-25 16:04:06,147 - INFO - Driver Finished!
+2024-08-25 16:04:06,168 - INFO - Appium Stoped!
